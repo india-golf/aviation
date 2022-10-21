@@ -1,7 +1,7 @@
 # Engine Clearing
 
 ## Introduction
-'Clearing the engine' means briefly advancing the throttle while in an idle power scenario, such as a simulated engine failure, or a power-off landing. Some instructors I've flown with have done this, and others have not, so I'd like to better understand the reasons for the practice and come up with some guidance for when and how it should be done. 
+'Clearing the engine' means briefly advancing the throttle while in an idle power scenario, such as a simulated engine failure, or a power-off landing. Some instructors I've flown with have done this, and others have not, so I'd like to better understand the reasons for the practice.
 
 ## Available Information
 I was unable to find any reference to this practice in the FAR's, the AIM, or the PHAK. The current AFH refers to it during the discussion of a steep spiral (10-4):
@@ -28,7 +28,7 @@ Another question: how much power is needed? Interestingly, older versions of the
 
 > The engine should be cleared periodically by briefly advancing the throttle to normal cruise power
 
-It's unclear why the procedure changed in FAA-H-8083-3C from `briefly advancing the throttle to normal cruise power` to `the throttle should be periodically advanced and sustained for a few seconds`. To be fair, advancing to normal cruise power seems pretty drastic. 
+It's unclear why the procedure changed in FAA-H-8083-3C from `briefly advancing the throttle to normal cruise power` to `the throttle should be periodically advanced and sustained for a few seconds`. To be fair, advancing to normal cruise power seems pretty drastic. Perhaps the intent of the 'normal cruise power' procedure was to clear potentially fouled spark plugs, but was changed in recognition that it often takes much longer than a few seconds to do so. In other words, if you can't actually clear the spark plugs this way, then you don't need to advance the throttle all the way to cruise power.
 
 To summarize, clearing the engine:
 
